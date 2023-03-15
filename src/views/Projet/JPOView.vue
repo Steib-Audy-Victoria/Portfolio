@@ -17,7 +17,7 @@
     <div>
         <h2 class="text-center font-bold text-6xl">Journée Porte Ouverte</h2>
         <div class="flex justify-center">
-            <img class="py-10 w-10/12 " src="src/assets/images/JPO/img" alt="">
+            <img class="py-10 w-10/12 " src="src/assets/images/JPO/Photo_IUT.webp" alt="">
         </div>
     </div>
 
