@@ -1,5 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
+import Logo from "./Logo.vue";
 </script>
 
 <template>
@@ -10,7 +11,7 @@ import { RouterLink, RouterView } from "vue-router";
                     <RouterLink to="/Projet">Projet</RouterLink>
                 </div>
                 <div>
-                    <h1><RouterLink to="/">LOGO</RouterLink></h1>
+                    <RouterLink to="/"><Logo></Logo></RouterLink>
                 </div>
                 <div>
                     <RouterLink to="/Contact">Contact</RouterLink>
