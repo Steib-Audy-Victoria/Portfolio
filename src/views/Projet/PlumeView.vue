@@ -57,14 +57,7 @@
                     <img class="w-1/2" src="src/assets/images/HTML_CSS_JS.png" alt="">
                 </div>
             </div>
-            <img src="src/assets/images/Plume/LP_Plume_2.png" alt="Landing page du projet Plume">
-            <div>
-                <p>Cette landing Page est disponible en format ordinateur et mobile.</p>
-            </div>
-            <img src="src/assets/images/Plume/LP_Plume_3.png" alt="Landing page du projet Plume">
-            <img src="src/assets/images/Plume/LP_Plume_4.png" alt="Landing page du projet Plume">
-            <img src="src/assets/images/Plume/LP_Plume_5.png" alt="Landing page du projet Plume">
-            <img src="src/assets/images/Plume/LP_Plume_6.png" alt="Landing page du projet Plume">
+
         </div>
     </section>
 
