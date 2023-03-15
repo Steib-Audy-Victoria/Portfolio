@@ -12,7 +12,7 @@
 
     <div class="py-2 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 place-items-center">
         <div class=" m-2 card card-compact w-96 bg-base-100 shadow-xl">
-            <figure><img src="src/assets/images/Plume.jpg" alt="Illustration du projet Plume" /></figure>
+            <figure><img src="src/assets/images/Plume/Plume.jpg" alt="Illustration du projet Plume" /></figure>
             <div class="card-body text-black">
                 <h2 class="card-title">Plume</h2>
                 <p>Projet de collectif, création d'une landing page et d'une application web.</p>
