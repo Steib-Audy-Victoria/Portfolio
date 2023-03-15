@@ -23,7 +23,7 @@
     <section>
         <h3 class="text-2xl pl-10">Présentation du projet</h3>
         <div class="pl-5">
-            <p>Plume est un projet réalisé lors du second semestre de première année de MMI.</p>
+            <p>Plume est un projet réalisé lors du second semestre de ma formation en BUT MMI.</p>
             <p>Le projet Plume est une plateforme sur laquelle tout utilisateur pourra voir son dessin ou celui d’un proche transformer en réelle œuvre d’art par des artistes présents sur la plateforme. 
                 Elle met en relation client et artiste, le client recevra son dessin transformé selon des critères qu’il aura définis au préalable avec l’artiste, lors du paiement. </p>
         </div>

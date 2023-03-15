@@ -4,6 +4,7 @@ import ProjetView from '../views/ProjetView.vue'
 import ContactView from '../views/ContactView.vue'
 
 import PlumeView from '../views/Projet/PlumeView.vue'
+import JPOView from '../views/Projet/JPOView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -17,6 +18,7 @@ const router = createRouter({
     { path: '/Contact', name: 'Contact', component: ContactView },
 
     { path: '/Plume', name: 'Plume', component: PlumeView },
+    { path: '/JPO', name: 'JPO', component: JPOView },
   ]
 })
 
