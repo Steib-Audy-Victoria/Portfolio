@@ -1,0 +1,124 @@
+<template>
+    <div class="text-sm breadcrumbs pl-1">
+        <ul>
+            <li>
+                <RouterLink to="/">Accueil</RouterLink>
+            </li>
+            <li>
+                <RouterLink to="/Projet">Projet</RouterLink>
+            </li>
+            <li>
+                <RouterLink to="/Plume">Plume</RouterLink>
+            </li>
+        </ul>
+    </div>
+
+    <div>
+        <h2 class="text-center font-bold text-6xl">Plume</h2>
+        <div class="flex justify-center">
+            <img class="py-10 w-10/12 " src="src/assets/images/Plume/Plume.jpg" alt="">
+        </div>
+    </div>
+
+    <section>
+        <h3 class="text-2xl pl-10">Présentation du projet</h3>
+        <div class="pl-5">
+            <p>Plume est un projet réalisé lors du second semestre de première année de MMI.</p>
+            <p>Le projet Plume est une plateforme sur laquelle tout utilisateur pourra voir son dessin ou celui d’un proche transformer en réelle œuvre d’art par des artistes présents sur la plateforme. 
+                Elle met en relation client et artiste, le client recevra son dessin transformé selon des critères qu’il aura définis au préalable avec l’artiste, lors du paiement. </p>
+        </div>
+
+        <div class="grid grid-cols-1 xl:grid-cols-2">
+            <div class=" m-2 mx-5 py-2 bg-base-200/10">
+                <h4 class="text-center">Présentation du logo</h4>
+                <div class="flex justify-around "> 
+                    <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Blanc.svg" alt="Logo du projet Plume version Blanc">
+                    <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Couleur.svg" alt="Logo du projet Plume version Couleur">
+                    <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Noir.svg" alt="Logo du projet Plume version Noir">
+                </div>
+            </div>
+            <div class=" m-2 mx-5 py-2 bg-base-200/10">
+                <h4 class="text-center">Présentation de la mascotte</h4>
+                <div class="pt-2 flex justify-center"> 
+                    <img src="src/assets/images/Plume/phenix2.svg" alt="Mascotte du projet Plume - Phénix">
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h3 class="text-2xl pl-10">Landing Page</h3>
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-3">
+            <img src="src/assets/images/Plume/LP_Plume_1.png" alt="Landing page du projet Plume">
+            <div class="flex flex-col justify-center items-center text-center bg-base-200/10">
+                <p>La landing page du projet plume à été crée en :</p>
+                <div class="flex justify-center items-center py-4">
+                    <img class="w-1/2" src="src/assets/images/HTML_CSS_JS.png" alt="">
+                </div>
+            </div>
+            <img src="src/assets/images/Plume/LP_Plume_2.png" alt="Landing page du projet Plume">
+            <div>
+                <p>Cette landing Page est disponible en format ordinateur et mobile.</p>
+            </div>
+            <img src="src/assets/images/Plume/LP_Plume_3.png" alt="Landing page du projet Plume">
+            <img src="src/assets/images/Plume/LP_Plume_4.png" alt="Landing page du projet Plume">
+            <img src="src/assets/images/Plume/LP_Plume_5.png" alt="Landing page du projet Plume">
+            <img src="src/assets/images/Plume/LP_Plume_6.png" alt="Landing page du projet Plume">
+        </div>
+    </section>
+
+    <section class="pt-10">
+        <h3 class="text-2xl pl-10 py-10">Application web</h3>
+
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-3 place-items-center">
+            <div>
+                <p>Page d'accueil :</p>
+                <img src="src/assets/images/Plume/AppPlume_1.png" alt="Application du projet Plume">
+            </div>
+            <div class="flex flex-col justify-center items-center bg-base-200/10 w-full h-full">
+                <p>L'application web du projet plume à été crée en :</p>
+                <div class="flex justify-center items-center py-4">
+                    <img class="w-24" src="src/assets/images/vuejs.png" alt="Logo du Framework VueJS">
+                    <img class="w-24" src="src/assets/images/firebase.png" alt="Logo du backend Firebase">
+
+                </div>
+            </div>
+            <div>
+                <p>Message :</p>
+                <div class="flex">
+                    <img src="src/assets/images/Plume/AppPlume_2.png" alt="Application du projet Plume">
+                    <img src="src/assets/images/Plume/AppPlume_3.png" alt="Application du projet Plume">
+                </div>
+            </div>
+            <div>
+                <p>Feed :</p>
+                <img src="src/assets/images/Plume/AppPlume_4.png" alt="Application du projet Plume">
+            </div>
+            <div>
+                <p>Recherche d'artiste :</p>
+                <img src="src/assets/images/Plume/AppPlume_5.png" alt="Application du projet Plume">
+            </div>
+            <div>
+                <p>Importation d'un dessin à sublimer :</p>
+                <img src="src/assets/images/Plume/AppPlume_6.png" alt="Application du projet Plume">
+            </div>
+            <div>
+                <p>Profil :</p>
+                <img src="src/assets/images/Plume/AppPlume_7.png" alt="Application du projet Plume">
+            </div>
+            <div>
+                <p>Profil d'un artiste :</p>
+                <img src="src/assets/images/Plume/AppPlume_8.png" alt="Application du projet Plume">
+            </div>
+        </div>
+    </section>
+
+    <div class="py-10">
+        <div class="flex flex-col text-center text-xl">
+            <p>Voici les liens vers les sites : </p>
+            <a href="https://plume.steib-audy.fr" class="underline">Landing Page de Plume</a>
+            <a href="https://plume-app.steib-audy.fr" class="underline">Application Mobile Web - Plume</a>
+        </div>
+    </div>
+</template>
