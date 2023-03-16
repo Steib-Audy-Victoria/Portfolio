@@ -41,6 +41,11 @@
                 <img class="w-32" src="src/assets/images/Supabase.png" alt="Logo du backend Supabase">
             </div>
         </div>
+        <div class="mockup-window border bg-base-300">
+            <div class="flex justify-center  bg-base-200">
+                <img src="src/assets/images/JPO/accueil_jpo.png" alt="mockup du site de la jpo">
+            </div>
+        </div>
     </section>
 
     <div class="py-10">

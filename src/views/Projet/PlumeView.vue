@@ -50,7 +50,11 @@
     <section class="pt-10">
         <h3 class="text-2xl pl-10 py-10" >Landing Page</h3>
         <div class="grid grid-cols-1 xl:grid-cols-2 gap-3">
-            <img src="src/assets/images/Plume/LP_Plume_1.png" alt="Landing page du projet Plume">
+            <div class="mockup-window border bg-base-300">
+                <div class="flex justify-center  bg-base-200">
+                <img src="src/assets/images/Plume/LP_Plume_1.png" alt="Landing page du projet Plume">
+                </div>
+            </div>
             <div class="flex flex-col justify-center items-center text-center bg-base-200/10">
                 <p>La landing page du projet plume à été crée en :</p>
                 <div class="flex justify-center items-center py-4">
@@ -67,7 +71,14 @@
         <div class="grid grid-cols-1 xl:grid-cols-2 gap-3 place-items-center">
             <div>
                 <p>Page d'accueil :</p>
-                <img src="src/assets/images/Plume/AppPlume_1.png" alt="Application du projet Plume">
+                <div class="mockup-phone">
+                    <div class="camera"></div> 
+                    <div class="display">
+                        <div class="artboard artboard-demo phone-1">
+                            <img src="src/assets/images/Plume/AppPlume_1.png" alt="Application du projet Plume">
+                        </div>
+                    </div>
+                </div>         
             </div>
             <div class="flex flex-col justify-center items-center bg-base-200/10 w-full h-full">
                 <p>L'application web du projet plume à été crée en :</p>
