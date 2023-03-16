@@ -4,8 +4,7 @@
             <div class="grid grid-flow-col gap-4">
                 <RouterLink to="/Projet" class="link link-hover">Projet</RouterLink>
                 <RouterLink to="/Contact" class="link link-hover">Contact</RouterLink>
-                <RouterLink to="#" class="link link-hover">...</RouterLink>
-                <RouterLink to="#" class="link link-hover">...</RouterLink>
+                <RouterLink to="#" class="link link-hover">Mentions Légales</RouterLink>
             </div>
             <div>
                 <div class="grid grid-flow-col gap-4">
