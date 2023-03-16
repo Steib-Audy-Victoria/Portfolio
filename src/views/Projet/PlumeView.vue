@@ -21,7 +21,7 @@
     </div>
 
     <section>
-        <h3 class="text-2xl pl-10">Présentation du projet</h3>
+        <h3 class="text-2xl pl-10 py-10">Présentation du projet</h3>
         <div class="pl-5">
             <p>Plume est un projet réalisé lors du second semestre de ma formation en BUT MMI.</p>
             <p>Le projet Plume est une plateforme sur laquelle tout utilisateur pourra voir son dessin ou celui d’un proche transformer en réelle œuvre d’art par des artistes présents sur la plateforme. 
@@ -29,16 +29,16 @@
         </div>
 
         <div class="grid grid-cols-1 xl:grid-cols-2">
-            <div class=" m-2 mx-5 py-2 bg-base-200/10">
-                <h4 class="text-center">Présentation du logo</h4>
-                <div class="flex justify-around "> 
+            <div class=" m-2 mx-5 py-2 bg-base-200/10 flex flex-col justify-center items-center gap-8">
+                <h4 class="text-center">Présentation du logo : </h4>
+                <div class="flex justify-around gap-12"> 
                     <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Blanc.svg" alt="Logo du projet Plume version Blanc">
                     <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Couleur.svg" alt="Logo du projet Plume version Couleur">
                     <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Noir.svg" alt="Logo du projet Plume version Noir">
                 </div>
             </div>
             <div class=" m-2 mx-5 py-2 bg-base-200/10">
-                <h4 class="text-center">Présentation de la mascotte</h4>
+                <h4 class="text-center">Présentation de la mascotte : </h4>
                 <div class="pt-2 flex justify-center"> 
                     <img src="src/assets/images/Plume/phenix2.svg" alt="Mascotte du projet Plume - Phénix">
 
@@ -47,8 +47,8 @@
         </div>
     </section>
 
-    <section>
-        <h3 class="text-2xl pl-10">Landing Page</h3>
+    <section class="pt-10">
+        <h3 class="text-2xl pl-10 py-10" >Landing Page</h3>
         <div class="grid grid-cols-1 xl:grid-cols-2 gap-3">
             <img src="src/assets/images/Plume/LP_Plume_1.png" alt="Landing page du projet Plume">
             <div class="flex flex-col justify-center items-center text-center bg-base-200/10">
@@ -72,37 +72,11 @@
             <div class="flex flex-col justify-center items-center bg-base-200/10 w-full h-full">
                 <p>L'application web du projet plume à été crée en :</p>
                 <div class="flex justify-center items-center py-4">
-                    <img class="w-24" src="src/assets/images/vuejs.png" alt="Logo du Framework VueJS">
-                    <img class="w-24" src="src/assets/images/firebase.png" alt="Logo du backend Firebase">
+                    <img class="w-32" src="src/assets/images/vuejs.png" alt="Logo du Framework VueJS">
+                    <img class="w-32" src="src/assets/images/tailwindCss.svg" alt="Logo du Framework Tailwind Css">
+                    <img class="w-32" src="src/assets/images/firebase.png" alt="Logo du backend Firebase">
 
                 </div>
-            </div>
-            <div>
-                <p>Message :</p>
-                <div class="flex">
-                    <img src="src/assets/images/Plume/AppPlume_2.png" alt="Application du projet Plume">
-                    <img src="src/assets/images/Plume/AppPlume_3.png" alt="Application du projet Plume">
-                </div>
-            </div>
-            <div>
-                <p>Feed :</p>
-                <img src="src/assets/images/Plume/AppPlume_4.png" alt="Application du projet Plume">
-            </div>
-            <div>
-                <p>Recherche d'artiste :</p>
-                <img src="src/assets/images/Plume/AppPlume_5.png" alt="Application du projet Plume">
-            </div>
-            <div>
-                <p>Importation d'un dessin à sublimer :</p>
-                <img src="src/assets/images/Plume/AppPlume_6.png" alt="Application du projet Plume">
-            </div>
-            <div>
-                <p>Profil :</p>
-                <img src="src/assets/images/Plume/AppPlume_7.png" alt="Application du projet Plume">
-            </div>
-            <div>
-                <p>Profil d'un artiste :</p>
-                <img src="src/assets/images/Plume/AppPlume_8.png" alt="Application du projet Plume">
             </div>
         </div>
     </section>
