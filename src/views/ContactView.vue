@@ -17,9 +17,9 @@
 
             <p class="text-center font-semibold text-xl">Vous pouvez me contacter ici !</p>
 
-            <input class="w-1/2 px-2 placeholder:text-black bg-gray-100" type="text" name="name" placeholder="Votre prénom et/ou nom" required>
-            <input class="w-1/2 px-2 placeholder:text-black bg-gray-100" type="email" name="email" placeholder="Votre adresse-mail" required>
-            <textarea class="w-1/2 px-2 placeholder:text-black bg-gray-100" name="message" placeholder="Votre message" required></textarea>
+            <input class="w-1/2 px-2 placeholder:text-black bg-gray-100 text-purple-900" type="text" name="name" placeholder="Votre prénom et/ou nom" required>
+            <input class="w-1/2 px-2 placeholder:text-black bg-gray-100 text-purple-900" type="email" name="email" placeholder="Votre adresse-mail" required>
+            <textarea class="w-1/2 px-2 placeholder:text-black bg-gray-100 text-purple-900" name="message" placeholder="Votre message" required></textarea>
 
 
             <input type="hidden" name="redirect" value="https://web3forms.com/success">
