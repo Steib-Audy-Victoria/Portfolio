@@ -1,6 +1,7 @@
-
+<script setup>
 import { RouterLink } from 'vue-router';
-
+import LogoG from "../components/LogoG.vue";
+</script>
 <template>
     <div class="text-sm breadcrumbs pl-1">
         <ul>
@@ -10,12 +11,19 @@ import { RouterLink } from 'vue-router';
         </ul>
     </div>
 
-    <section>
+    <section class="grid grid-cols-1 md:grid-cols-2 place-items-center py-40">
+        <div>
+            <LogoG></LogoG>
+        </div>
+        <div class="text-center">
+            <p class="text-xl font-bold">Victoria Steib-Audy</p>
+            <p>Étudiante en BUT Métier du Multimédia et de l'Internet </p>
+        </div>
 
     </section>
 
-    <section class="py-2">
-        <h2 class="text-center font-bold text-xl">Présentation des Projets :</h2>
+    <section class="py-10">
+        <h2 class="text-center font-bold text-xl">Présentation de mes projets :</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
 
             <!--Projet Plume-->
