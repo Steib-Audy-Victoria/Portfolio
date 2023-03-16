@@ -14,7 +14,7 @@
 
         <!--Projet Plume-->
         <div class=" m-2 card card-compact w-96 bg-base-100 shadow-xl">
-            <figure><img src="./assets/Plume.jpg" alt="Illustration du projet Plume" /></figure>
+            <figure><img src="../assets/Plume.jpg" alt="Illustration du projet Plume" /></figure>
             <div class="card-body text-black">
                 <h2 class="card-title">Plume</h2>
                 <p>Projet collectif, création d'une landing page et d'une application web.</p>
@@ -28,7 +28,7 @@
 
         <!--Projet JPO-->
         <div class="m-2 card card-compact w-96 bg-base-100 shadow-xl">
-            <figure><img src="./assets/Photo_IUT.webp" alt="Photo du départemenbt MMI de Montbéliard" /></figure>
+            <figure><img src="../assets/Photo_IUT.webp" alt="Photo du départemenbt MMI de Montbéliard" /></figure>
             <div class="card-body text-black">
                 <h2 class="card-title">JPO MMI</h2>
                 <p>Organisation de la Journée porte ouverte du département MMI de Montbéliard.

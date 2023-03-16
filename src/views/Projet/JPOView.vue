@@ -17,7 +17,7 @@
     <div>
         <h2 class="text-center font-bold text-6xl">Journée Porte Ouverte</h2>
         <div class="flex justify-center">
-            <img class="py-10 w-10/12 " src="./assets/Photo_IUT.webp" alt="">
+            <img class="py-10 w-10/12 " src="../../assets/Photo_IUT.webp" alt="">
         </div>
     </div>
 
@@ -36,14 +36,14 @@
             <p>Ce projet à été réaliser à l'aide du Framework VueJS, pour la création de l'interface du site web, et du Framework CSS Tailwind. </p>
             <p>Le backend utiliser pour ce projet est Supabase.</p>
             <div class="flex justify-center items-center py-4 ">
-                <img class="w-24" src="./assets/vuejs.png" alt="Logo du Framework VueJS">
-                <img class="w-32" src="./assets/tailwindCss.svg" alt="Logo du Framework Tailwind CSS">
-                <img class="w-32" src="./assets/Supabase.png" alt="Logo du backend Supabase">
+                <img class="w-24" src="../../assets/vuejs.png" alt="Logo du Framework VueJS">
+                <img class="w-32" src="../../assets/tailwindCss.svg" alt="Logo du Framework Tailwind CSS">
+                <img class="w-32" src="../../assets/Supabase.png" alt="Logo du backend Supabase">
             </div>
         </div>
         <div class="mockup-window border bg-base-300">
             <div class="flex justify-center  bg-base-200">
-                <img src="./assets/accueil_jpo.png" alt="mockup du site de la jpo">
+                <img src="../../assets/accueil_jpo.png" alt="mockup du site de la jpo">
             </div>
         </div>
     </section>
