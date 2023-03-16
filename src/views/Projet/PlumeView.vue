@@ -16,7 +16,7 @@
     <div>
         <h2 class="text-center font-bold text-6xl">Plume</h2>
         <div class="flex justify-center">
-            <img class="py-10 w-10/12 " src="src/assets/images/Plume/Plume.jpg" alt="">
+            <img class="py-10 w-10/12 " src="src/assets/Plume.jpg" alt="">
         </div>
     </div>
 
@@ -32,15 +32,15 @@
             <div class=" m-2 mx-5 py-2 bg-base-200/10 flex flex-col justify-center items-center gap-8">
                 <h4 class="text-center">Présentation du logo : </h4>
                 <div class="flex justify-around gap-12"> 
-                    <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Blanc.svg" alt="Logo du projet Plume version Blanc">
-                    <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Couleur.svg" alt="Logo du projet Plume version Couleur">
-                    <img class="w-24" src="src/assets/images/Plume/Logo_Plume_Noir.svg" alt="Logo du projet Plume version Noir">
+                    <img class="w-24" src="src/assets/Logo_Plume_Blanc.svg" alt="Logo du projet Plume version Blanc">
+                    <img class="w-24" src="src/assets/Logo_Plume_Couleur.svg" alt="Logo du projet Plume version Couleur">
+                    <img class="w-24" src="src/assets/Logo_Plume_Noir.svg" alt="Logo du projet Plume version Noir">
                 </div>
             </div>
             <div class=" m-2 mx-5 py-2 bg-base-200/10">
                 <h4 class="text-center">Présentation de la mascotte : </h4>
                 <div class="pt-2 flex justify-center"> 
-                    <img src="src/assets/images/Plume/phenix2.svg" alt="Mascotte du projet Plume - Phénix">
+                    <img src="src/assets/phenix2.svg" alt="Mascotte du projet Plume - Phénix">
 
                 </div>
             </div>
@@ -52,7 +52,7 @@
         <div class="grid grid-cols-1 xl:grid-cols-2 gap-3">
             <div class="mockup-window border bg-base-300">
                 <div class="flex justify-center  bg-base-200">
-                <img src="src/assets/images/Plume/LP_Plume_1.png" alt="Landing page du projet Plume">
+                <img src="src/assets/LP_Plume_1.png" alt="Landing page du projet Plume">
                 </div>
             </div>
             <div class="flex flex-col justify-center items-center text-center bg-base-200/10">
@@ -75,7 +75,7 @@
                     <div class="camera"></div> 
                     <div class="display">
                         <div class="artboard artboard-demo phone-1">
-                            <img src="src/assets/images/Plume/AppPlume_1.png" alt="Application du projet Plume">
+                            <img src="src/assets/AppPlume_1.png" alt="Application du projet Plume">
                         </div>
                     </div>
                 </div>         
