@@ -15,14 +15,14 @@
     </div>
 
     <div>
-        <h2 class="text-center font-bold text-6xl">Journée Porte Ouverte</h2>
+        <h1 class="text-center font-bold text-6xl">Journée Porte Ouverte</h1>
         <div class="flex justify-center">
             <img class="py-10 w-10/12 " src="../../assets/Photo_IUT.webp" alt="">
         </div>
     </div>
 
     <section>
-        <h3 class="text-2xl pl-10">Présentation du projet</h3>
+        <h2 class="text-2xl pl-10">Présentation du projet</h2>
         <div class="pl-5 py-2">
             <p>L'organisation de la Journée Porte Ouverte, du département MMI de montbéliard, est un projet réalisé lors du troisième semestre de ma formation en BUT MMI.</p>
             <p> Ce projet était un projet collectif.</p>
@@ -31,7 +31,7 @@
     </section>
 
     <section class="my-10 bg-base-200/10">
-        <h3 class="text-2xl pl-10 py-2">Réalisation du site de la JPO</h3>
+        <h2 class="text-2xl pl-10 py-2">Réalisation du site de la JPO</h2>
         <div class="pl-5">
             <p>Ce projet à été réaliser à l'aide du Framework VueJS, pour la création de l'interface du site web, et du Framework CSS Tailwind. </p>
             <p>Le backend utiliser pour ce projet est Supabase.</p>

@@ -14,14 +14,14 @@
     </div>
 
     <div>
-        <h2 class="text-center font-bold text-6xl">Plume</h2>
+        <h1 class="text-center font-bold text-6xl">Plume</h1>
         <div class="flex justify-center">
             <img class="py-10 w-10/12 " src="../../assets/Plume.jpg" alt="">
         </div>
     </div>
 
     <section>
-        <h3 class="text-2xl pl-10 py-10">Présentation du projet</h3>
+        <h2 class="text-2xl pl-10 py-10">Présentation du projet</h2>
         <div class="pl-5">
             <p>Plume est un projet réalisé lors du second semestre de ma formation en BUT MMI.</p>
             <p>Le projet Plume est une plateforme sur laquelle tout utilisateur pourra voir son dessin ou celui d’un proche transformer en réelle œuvre d’art par des artistes présents sur la plateforme. 
@@ -48,7 +48,7 @@
     </section>
 
     <section class="pt-10">
-        <h3 class="text-2xl pl-10 py-10" >Landing Page</h3>
+        <h2 class="text-2xl pl-10 py-10" >Landing Page</h2>
         <div class="grid grid-cols-1 xl:grid-cols-2 gap-3">
             <div class="mockup-window border bg-base-300">
                 <div class="flex justify-center  bg-base-200">
@@ -66,7 +66,7 @@
     </section>
 
     <section class="pt-10">
-        <h3 class="text-2xl pl-10 py-10">Application web</h3>
+        <h2 class="text-2xl pl-10 py-10">Application web</h2>
 
         <div class="grid grid-cols-1 xl:grid-cols-2 gap-3 place-items-center">
             <div>
