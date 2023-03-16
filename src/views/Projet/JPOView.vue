@@ -36,9 +36,9 @@
             <p>Ce projet à été réaliser à l'aide du Framework VueJS, pour la création de l'interface du site web, et du Framework CSS Tailwind. </p>
             <p>Le backend utiliser pour ce projet est Supabase.</p>
             <div class="flex justify-center items-center py-4 ">
-                <img class="w-24" src="./assets/images/vuejs.png" alt="Logo du Framework VueJS">
-                <img class="w-32" src="./assets/images/tailwindCss.svg" alt="Logo du Framework Tailwind CSS">
-                <img class="w-32" src="./assets/images/Supabase.png" alt="Logo du backend Supabase">
+                <img class="w-24" src="./assets/vuejs.png" alt="Logo du Framework VueJS">
+                <img class="w-32" src="./assets/tailwindCss.svg" alt="Logo du Framework Tailwind CSS">
+                <img class="w-32" src="./assets/Supabase.png" alt="Logo du backend Supabase">
             </div>
         </div>
         <div class="mockup-window border bg-base-300">
