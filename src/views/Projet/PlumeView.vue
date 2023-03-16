@@ -84,8 +84,8 @@
     <div class="py-10">
         <div class="flex flex-col text-center text-xl">
             <p>Voici les liens vers les sites : </p>
-            <a href="https://plume.steib-audy.fr" class="underline">Landing Page de Plume</a>
-            <a href="https://plume-app.steib-audy.fr" class="underline">Application Mobile Web - Plume</a>
+            <a href="https://plume.steib-audy.fr" target="_blank" class="underline">Landing Page de Plume</a>
+            <a href="https://plume-app.steib-audy.fr" target="_blank" class="underline">Application Mobile Web - Plume</a>
         </div>
     </div>
 </template>

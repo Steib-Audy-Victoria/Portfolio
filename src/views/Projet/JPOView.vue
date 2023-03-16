@@ -37,7 +37,7 @@
             <p>Le backend utiliser pour ce projet est Supabase.</p>
             <div class="flex justify-center items-center py-4 ">
                 <img class="w-24" src="src/assets/images/vuejs.png" alt="Logo du Framework VueJS">
-                <img class="w-32" src="src/assets/images/tailwind-css.svg" alt="Logo du Framework Tailwind CSS">
+                <img class="w-32" src="src/assets/images/tailwindCss.svg" alt="Logo du Framework Tailwind CSS">
                 <img class="w-32" src="src/assets/images/Supabase.png" alt="Logo du backend Supabase">
             </div>
         </div>
@@ -46,7 +46,7 @@
     <div class="py-10">
         <div class="flex flex-col text-center text-xl">
             <p>Voici le liens vers le site de la JPO : </p>
-            <a href="https://jpo-mmi.steib-audy.fr" class="underline"> Site de la JPO</a>
+            <a href="https://jpo-mmi.steib-audy.fr" target="_blank" class="underline"> Site de la JPO</a>
         </div>
     </div>
 </template>
