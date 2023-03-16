@@ -57,7 +57,7 @@ import LogoG from "../components/LogoG.vue";
         </div>
         <div class="flex justify-center items-center py-4">
             <button class="border border-white p-2 font-bold ">
-                <RouterLink to="">Voir plus de projets</RouterLink>
+                <RouterLink to="/Projet">Voir plus de projets</RouterLink>
             </button>
         </div>
     </section>
