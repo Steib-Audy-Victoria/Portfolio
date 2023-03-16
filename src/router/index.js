@@ -6,6 +6,8 @@ import ContactView from '../views/ContactView.vue'
 import PlumeView from '../views/Projet/PlumeView.vue'
 import JPOView from '../views/Projet/JPOView.vue'
 
+import Page404 from '../views/Page404.vue'
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -19,6 +21,12 @@ const router = createRouter({
 
     { path: '/Plume', name: 'Plume', component: PlumeView },
     { path: '/JPO', name: 'JPO', component: JPOView },
+
+    {
+      path: '/:pathMatch(.*)*',
+      name: 'page404',
+      component: Page404
+    },
   ]
 })
 
