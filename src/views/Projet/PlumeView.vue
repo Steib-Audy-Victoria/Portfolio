@@ -58,7 +58,7 @@
             <div class="flex flex-col justify-center items-center text-center bg-base-200/10">
                 <p>La landing page du projet plume à été crée en :</p>
                 <div class="flex justify-center items-center py-4">
-                    <img class="w-1/2" src="../../assets/images/HTML_CSS_JS.png" alt="">
+                    <img class="w-1/2" src="../../assets/HTML_CSS_JS.png" alt="">
                 </div>
             </div>
 
@@ -83,9 +83,9 @@
             <div class="flex flex-col justify-center items-center bg-base-200/10 w-full h-full">
                 <p>L'application web du projet plume à été crée en :</p>
                 <div class="flex justify-center items-center py-4">
-                    <img class="w-32" src="../../assets/images/vuejs.png" alt="Logo du Framework VueJS">
-                    <img class="w-32" src="../../assets/images/tailwindCss.svg" alt="Logo du Framework Tailwind Css">
-                    <img class="w-32" src="../../assets/images/firebase.png" alt="Logo du backend Firebase">
+                    <img class="w-32" src="../../assets/vuejs.png" alt="Logo du Framework VueJS">
+                    <img class="w-32" src="../../assets/tailwindCss.svg" alt="Logo du Framework Tailwind Css">
+                    <img class="w-32" src="../../assets/firebase.png" alt="Logo du backend Firebase">
 
                 </div>
             </div>
