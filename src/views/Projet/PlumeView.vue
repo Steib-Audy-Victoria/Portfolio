@@ -33,7 +33,7 @@
                 <h4 class="text-center">Présentation du logo : </h4>
                 <div class="flex justify-around gap-12"> 
                     <img class="w-24" src="../../assets/Logo_Plume_Blanc.svg" alt="Logo du projet Plume version Blanc">
-                    <img class="w-24" src="../../assets/Logo_Plume_Couleur.svg" alt="Logo du projet Plume version Couleur">
+                    <img class="w-24" src="../../assets/Logo_Plume_couleur.svg" alt="Logo du projet Plume version Couleur">
                     <img class="w-24" src="../../assets/Logo_Plume_Noir.svg" alt="Logo du projet Plume version Noir">
                 </div>
             </div>
