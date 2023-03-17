@@ -17,7 +17,7 @@ import LogoG from "../components/LogoG.vue";
         </div>
         <div class="text-center">
             <p class="text-xl font-bold">Victoria Steib-Audy</p>
-            <p>Étudiante en 2ème année du BUT Métier du Multimédia et de l'Internet </p>
+            <p>Designer web, Web developper</p>
         </div>
 
     </section>
