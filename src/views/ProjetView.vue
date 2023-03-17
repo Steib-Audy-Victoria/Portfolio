@@ -10,7 +10,7 @@
         </ul>
     </div>
 
-    <div class="py-2 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 place-items-center">
+    <div class="py-2 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 place-items-center min-h-screen">
 
         <!--Projet Plume-->
         <div class=" m-2 card card-compact w-96 bg-base-100 shadow-xl">
