@@ -63,6 +63,11 @@
             </div>
 
         </div>
+
+        <div class="flex flex-col text-center text-xl py-10">
+            <a href="https://github.com/Steib-Audy-Victoria/projetS2-plume" target="_blank" class="underline hover:text-purple-500 hover:no-underline">Lien vers le repository Github de la Landing Page de Plume</a>
+            <a href="https://plume.steib-audy.fr" target="_blank" class="underline hover:text-purple-500 hover:no-underline">Lien vers la Landing Page de Plume</a>
+        </div>
     </section>
 
     <section class="pt-10">
@@ -90,13 +95,11 @@
                 </div>
             </div>
         </div>
+
+        <div class="flex flex-col text-center text-xl py-10">
+            <a href="https://github.com/Steib-Audy-Victoria/Plume" target="_blank" class="underline hover:text-purple-500 hover:no-underline">Lien vers le repository Github de l'application Plume</a>
+            <a href="https://plume-app.steib-audy.fr" target="_blank" class="underline hover:text-purple-500 hover:no-underline">Lien vers l'Application Mobile Web Plume</a>
+        </div>
     </section>
 
-    <div class="py-10">
-        <div class="flex flex-col text-center text-xl">
-            <p>Voici les liens vers les sites : </p>
-            <a href="https://plume.steib-audy.fr" target="_blank" class="underline">Landing Page de Plume</a>
-            <a href="https://plume-app.steib-audy.fr" target="_blank" class="underline">Application Mobile Web - Plume</a>
-        </div>
-    </div>
 </template>

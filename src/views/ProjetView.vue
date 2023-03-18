@@ -42,5 +42,19 @@
             </div>
         </div>
 
+        <!--Projet Tik Tak-->
+        <div class="m-2 card card-compact w-96 bg-base-100 shadow-xl">
+            <figure><img src="../assets/LogoTikTak.png" alt="Montre connecter TikTak" /></figure>
+            <div class="card-body text-black">
+                <h2 class="card-title">Tik Tak </h2>
+                <p>Site de personalisation de montre connecter.</p>
+                <div class="card-actions justify-end">
+                    <button class="btn btn-neutral">
+                        <RouterLink to="/TikTak">Voir plus</RouterLink>
+                    </button>
+                </div>
+            </div>
+        </div>
+
     </div>
 </template>
