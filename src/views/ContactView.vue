@@ -10,7 +10,7 @@
         </ul>
     </div>
 
-    <section class="py-4">
+    <section class="py-32">
         <form class="flex flex-col gap-10 justify-center items-center border-2 border-white p-10 mx-40" action="https://api.web3forms.com/submit" method="POST">
 
             <input type="hidden" name="access_key" value="7910f823-6521-4306-bedd-b21809468bc9">
