@@ -55,19 +55,6 @@ import LogoG from "../components/LogoG.vue";
                 </div>
             </div>
 
-            <!-- Projet tik tak
-            <div class="card w-96 bg-base-100 shadow-xl image-full">
-                <figure><img src="../assets/LogoTikTak.png" alt="Logo Tik Tak" /></figure>
-                <div class="card-body">
-                    <h2 class="card-title">Tik Tak</h2>
-                    <p>Site de personalisation de montre connecter.</p>
-                    <div class="card-actions justify-end">
-                    <button class="btn btn-primary">
-                        <RouterLink to="/TikTak">Voir plus</RouterLink>
-                    </button>
-                    </div>
-                </div>
-            </div> -->
         </div>
         <div class="flex justify-center items-center py-4">
             <button class="border border-white p-2 font-bold ">

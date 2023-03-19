@@ -6,6 +6,7 @@ import ContactView from '../views/ContactView.vue'
 import PlumeView from '../views/Projet/PlumeView.vue'
 import JPOView from '../views/Projet/JPOView.vue'
 import TikTakView from '../views/Projet/TikTakView.vue'
+import FestivalView from '../views/Projet/FestivalView.vue'
 
 import Page404 from '../views/Page404.vue'
 
@@ -23,6 +24,7 @@ const router = createRouter({
     { path: '/Plume', name: 'Plume', component: PlumeView },
     { path: '/JPO', name: 'JPO', component: JPOView },
     { path: '/TikTak', name: 'TikTak', component: TikTakView },
+    { path: '/Festival', name: 'Festival', component: FestivalView },
 
     {
       path: '/:pathMatch(.*)*',

@@ -8,7 +8,7 @@
                 <RouterLink to="/Projet">Projet</RouterLink>
             </li>
             <li>
-                <RouterLink to="/JPO">Tik Tak</RouterLink>
+                <RouterLink to="/TikTak">Tik Tak</RouterLink>
             </li>
         </ul>
     </div>
