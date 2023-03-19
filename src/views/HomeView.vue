@@ -55,7 +55,7 @@ import LogoG from "../components/LogoG.vue";
                 </div>
             </div>
 
-            <!--Projet tik tak-->
+            <!-- Projet tik tak
             <div class="card w-96 bg-base-100 shadow-xl image-full">
                 <figure><img src="../assets/LogoTikTak.png" alt="Logo Tik Tak" /></figure>
                 <div class="card-body">
@@ -67,7 +67,7 @@ import LogoG from "../components/LogoG.vue";
                     </button>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class="flex justify-center items-center py-4">
             <button class="border border-white p-2 font-bold ">

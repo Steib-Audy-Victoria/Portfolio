@@ -19,7 +19,7 @@
                 <h2 class="card-title">Plume</h2>
                 <p>Projet collectif, création d'une landing page et d'une application web.</p>
                 <div class="card-actions justify-end">
-                    <button class="btn btn-neutral">
+                    <button class="btn btn-primary">
                         <RouterLink to="/Plume">Voir plus</RouterLink>
                     </button>
                 </div>
@@ -35,7 +35,7 @@
                     Avec maquettage et création du site web.
                 </p>
                 <div class="card-actions justify-end">
-                    <button class="btn btn-neutral">
+                    <button class="btn btn-primary">
                         <RouterLink to="/JPO">Voir plus</RouterLink>
                     </button>
                 </div>
@@ -49,7 +49,7 @@
                 <h2 class="card-title">Tik Tak </h2>
                 <p>Site de personalisation de montre connecter.</p>
                 <div class="card-actions justify-end">
-                    <button class="btn btn-neutral">
+                    <button class="btn btn-primary">
                         <RouterLink to="/TikTak">Voir plus</RouterLink>
                     </button>
                 </div>
