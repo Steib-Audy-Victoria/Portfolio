@@ -47,9 +47,9 @@
     </section>
 
     <section class="my-10 ">
+        <h2 class="text-2xl pl-10 py-2">Réalisation du site du Festival</h2>
         <div class="grid grid-cols-1 md:grid-cols-2">
             <div class="bg-base-200/10 flex flex-col justify-center items-center">
-                <h2 class="text-2xl pl-10 py-2">Réalisation du site Festival</h2>
                 <div class="pl-5 ">
                     <p>Ce projet à été réaliser à l'aide du Framework VueJS, pour la création de l'interface du site web, et du Framework CSS Tailwind. </p>
                     <p>Le backend utiliser pour ce projet est Firebase, pour la création, la modification et la suppression des fiche artiste et concerts</p>
