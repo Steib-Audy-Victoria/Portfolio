@@ -89,10 +89,11 @@
                 <p>L'application web du projet plume à été crée en :</p>
                 <div class="flex justify-center items-center py-4">
                     <img class="w-32" src="../../assets/vuejs.png" alt="Logo du Framework VueJS">
-                    <img class="w-32" src="../../assets/tailwindCss.svg" alt="Logo du Framework Tailwind Css">
                     <img class="w-32" src="../../assets/firebase.png" alt="Logo du backend Firebase">
 
                 </div>
+                <p class="px-5">Ce projet à été réaliser à l'aide du Framework VueJS, pour la création de l'interface du site web, et du Framework CSS Tailwind. </p>
+                <p>Le backend utiliser pour ce projet est Firebase.</p>
             </div>
         </div>
 
