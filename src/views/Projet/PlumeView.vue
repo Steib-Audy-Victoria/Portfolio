@@ -89,6 +89,7 @@
                 <p>L'application web du projet plume à été crée en :</p>
                 <div class="flex justify-center items-center py-4">
                     <img class="w-32" src="../../assets/vuejs.png" alt="Logo du Framework VueJS">
+                    <img class="w-32" src="../../assets/tailwindCss.svg" alt="Logo du Framework Tailwind CSS">
                     <img class="w-32" src="../../assets/firebase.png" alt="Logo du backend Firebase">
 
                 </div>
